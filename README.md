@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Alain Nambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)]https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)
+[![Alain Nambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)
 
 [![Alain Nambi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)
 
