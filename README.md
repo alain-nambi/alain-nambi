@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Numbers
-<div style="display: flex">
+<div style="display: flex; align-items: center; justify-content: center;">
 
 ![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
