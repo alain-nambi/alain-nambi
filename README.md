@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=darcula&hide_border=true)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&langs_count=10)](https://github.com/alain-nambi/alain-nambi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=dark&langs_count=10)](https://github.com/alain-nambi/alain-nambi)
