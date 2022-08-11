@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=darcula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&langs_count=8)](https://github.com/alain-nambi/alain-nambi)
 
 ![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=darcula&show_icons=true&hide_border=true&layout=compact)
