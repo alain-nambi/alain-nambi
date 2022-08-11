@@ -29,8 +29,12 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Numbers
+<div style="display: flex">
+
 ![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=dark&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=dark&hide_border=true&langs_count=10)](https://github.com/alain-nambi/alain-nambi)
+
+</div>
