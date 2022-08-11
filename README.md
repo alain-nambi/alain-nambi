@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=dark&langs_count=10)](https://github.com/alain-nambi/alain-nambi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=dark&hide_border=true&langs_count=10)](https://github.com/alain-nambi/alain-nambi)
