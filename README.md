@@ -28,4 +28,9 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![alainnambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+### Numbers
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&theme=darcula&hide_border=true)
+
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&theme=darcula&show_icons=true&hide_border=true&layout=compact)
