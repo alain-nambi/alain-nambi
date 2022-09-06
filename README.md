@@ -5,7 +5,11 @@
 
 </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
+ </div>
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
