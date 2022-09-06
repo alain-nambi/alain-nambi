@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex">
   
   [![Alain Nambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)
 
