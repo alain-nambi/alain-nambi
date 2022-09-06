@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center">
+<div style="display: flex; align-items: center; justify-content: center">
   <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10" />
