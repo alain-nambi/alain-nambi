@@ -1,3 +1,13 @@
+<div>
+  
+  [![Alain Nambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)
+
+  [![Alain Nambi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -12,11 +22,3 @@
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
-
-
-
-[![Alain Nambi's Stats](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)
-
-[![Alain Nambi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)
