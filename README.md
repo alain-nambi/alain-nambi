@@ -20,5 +20,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alain-nambi" />
-  ![Views](https://hit.yhype.me/github/profile?user_id=82823217)
+  <img src="https://hit.yhype.me/github/profile?user_id=82823217" />
 </div>
