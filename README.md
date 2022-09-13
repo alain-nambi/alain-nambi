@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-<div align="center">    
-  <img src="https://github-profile-trophy.vercel.app/?username=alain-nambi" />
-</div>
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=alain-nambi" />
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
