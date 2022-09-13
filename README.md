@@ -20,7 +20,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
 </div>
 
