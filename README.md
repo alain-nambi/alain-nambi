@@ -20,4 +20,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alain-nambi" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alain-nambi)](https://github.com/alain-nambi/github-profile-trophy)
 </div>
