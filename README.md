@@ -4,43 +4,43 @@
 </div>
 -->
 
-<div>
-  <span>Programming Languages</span>
-  <div align="center">
+<div align="center">
+  <h3>Programming Languages</h3>
+  <div>
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </div>
 </div>
 
-<div>
-  <span>Frontend</span>
-  <div align="center">
+<div align="center">
+  <h3>Frontend</h3>
+  <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 </div>
 
-<div>
-  <span>Frontend Frameworks </span>
-  <div align="center">
+<div align="center">
+  <h3>Frontend Frameworks </h3>
+  <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 </div>
 
-<div>
-  <span>Databases used</span>
-  <div align="center">
+<div align="center">
+  <h3>Databases used</h3>
+  <div>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </div>
 </div>
 
-<div>
-  <span>Testing Tools</span>
-  <div align="center">
+<div align="center">
+  <h3>Testing Tools</h3>
+  <div>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
   </div>
 </div>
