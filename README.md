@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div style="display: flex"> 
+<div> 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
   </div>
