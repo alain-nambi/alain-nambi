@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
 </div>
 
@@ -45,29 +46,56 @@
   </div>
 </div>
 
+<div align="center">
+  <h4>Integrated Development Environment (IDE)</h4>
+  <div>
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  </div>
+</div>
+
+<div align="center">
+  <h4>Integrated Development Environment (IDE)</h4>
+  <div>
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </div>
+</div>
+
+<div align="center">
+  <h4>Operating System (OS)</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </div>
+</div>
+
+<div align="center">
+  <h4>Backend Frameworks</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </div>
+</div>
+
+<div align="center">
+  <h4>Deployment Tools</h4>
+  <div>
+     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </div>
+</div>
+
 
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
 </div>
--->
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10" />
 </div>
--->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
