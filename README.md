@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <h4 style="color: #fff">Programming Languages</h4>
+  <h4>Programming Languages</h4>
   <div>
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -89,17 +89,24 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
+<div style="display: flex"> 
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
+  </div>
 </div>
 
+
+
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=alain-nambi&layout=compact&hide_border=true&langs_count=10" />
 </div>
+-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
-</div>
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
