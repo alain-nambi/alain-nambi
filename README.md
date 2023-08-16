@@ -15,16 +15,10 @@
 </div>
 
 <div align="center">
-  <h4>Frontend</h4>
+  <h4>Frontend technologies</h4>
   <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  </div>
-</div>
-
-<div align="center">
-  <h4>Frontend Frameworks </h4>
-  <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -32,22 +26,16 @@
 </div>
 
 <div align="center">
-  <h4>Databases used</h4>
+  <h4>Databases technologies</h4>
   <div>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </div>
 </div>
 
 <div align="center">
   <h4>Testing Tools</h4>
-  <div>
-    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-  </div>
-</div>
-
-<div align="center">
-  <h4>Integrated Development Environment (IDE)</h4>
   <div>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
   </div>
@@ -70,13 +58,6 @@
 </div>
 
 <div align="center">
-  <h4>Backend Frameworks</h4>
-  <div>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </div>
-</div>
-
-<div align="center">
   <h4>Deployment Tools</h4>
   <div>
      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -84,9 +65,11 @@
 </div>
 
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <h4>Versioning tools</h4>
+  <div>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
 </div>
 
 <div> 
