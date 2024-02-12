@@ -21,7 +21,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=elixir" />
       <br>Elixir
     </td>
     <td align="center" width="96"> 
