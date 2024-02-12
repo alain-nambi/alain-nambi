@@ -8,37 +8,6 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-      <br>Elixir
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
     <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -48,6 +17,38 @@
       <br>CSS
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+      <br>Elixir
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
@@ -55,8 +56,6 @@
       <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-  </tr>
- <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -73,7 +72,7 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
- </tr>
+  </tr>
 </table>
 
 <div> 
