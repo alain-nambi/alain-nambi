@@ -66,6 +66,10 @@
       <br>VsCode
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="VsCode" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
