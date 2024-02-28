@@ -76,6 +76,10 @@
 
 <div> 
   <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
+  </div>
+  
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=alain-nambi&show_icons=true&hide_border=true&count_private=true" />
   </div>
 
@@ -83,8 +87,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
   </div>
 </div>
-
-![Codewars](https://github.r2v.ch/codewars?user=alain-nambi&stroke=%23BB432C)
 
 
 
