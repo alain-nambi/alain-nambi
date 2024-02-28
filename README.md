@@ -76,7 +76,7 @@
 
 <div> 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alain-nambi&hide_border=true" />
+    <img src="https://github.r2v.ch/codewars?user=alain-nambi&&stroke=%23FFFFFF" />
   </div>
   
   <div align="center">
